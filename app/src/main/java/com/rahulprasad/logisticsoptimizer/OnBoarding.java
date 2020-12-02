@@ -30,15 +30,15 @@ public class OnBoarding extends AppCompatActivity {
 
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        getSupportActionBar().hide();
+
 
         setContentView(R.layout.activity_on_boarding);
 
         final List<Intro> introList =new  ArrayList<>();
 
         introList.add(new Intro("Hauling Infinite miles","dummy of description dummy of description dummy of description dummy of description", R.drawable.one));
-        introList.add(new Intro("Rerouting for 100% loadability","dummy of description dummy of description dummy of description dummy of description", R.drawable.onboarding2));
-        introList.add(new Intro("We Plan to help you Execute","dummy of description dummy of description dummy of description dummy of description", R.drawable.oboarding3));
+         introList.add(new Intro("Rerouting for 100% loadability","dummy of description dummy of description dummy of description dummy of description", R.drawable.onboarding2));
+         introList.add(new Intro("We Plan to help you Execute","dummy of description dummy of description dummy of description dummy of description", R.drawable.oboarding3));
 
 
         final ViewPager viewPager = findViewById(R.id.screenPager);

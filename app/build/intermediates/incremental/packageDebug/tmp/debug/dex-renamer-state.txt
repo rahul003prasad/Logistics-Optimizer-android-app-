@@ -1,4 +1,4 @@
-#Tue Dec 01 02:51:25 IST 2020
+#Wed Dec 02 15:49:57 IST 2020
 base.0=/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

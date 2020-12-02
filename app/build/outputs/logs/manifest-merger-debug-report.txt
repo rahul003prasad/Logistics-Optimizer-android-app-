@@ -72,18 +72,18 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahu
 		ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.rahulprasad.logisticsoptimizer.Home
-ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:12:9-85
-	android:name
-		ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:12:19-73
-activity#com.rahulprasad.logisticsoptimizer.MainActivity
-ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:13:9-84
-	android:name
-		ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:13:19-81
 activity#com.rahulprasad.logisticsoptimizer.OnBoarding
+ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:12:9-57
+	android:name
+		ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:12:19-45
+activity#com.rahulprasad.logisticsoptimizer.Home
+ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:13:9-42
+	android:name
+		ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:13:19-39
+activity#com.rahulprasad.logisticsoptimizer.Splash
 ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:14:19-79
+		ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:14:19-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN

@@ -48,10 +48,6 @@
         "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/drawable_oboarding3.png.flat",
         "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/drawable/oboarding3.png"
     },
@@ -80,6 +76,10 @@
         "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
+        "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/drawable/logo.png"
+    },
+    {
         "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/drawable_oboarding1.png.flat",
         "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/drawable/oboarding1.png"
     },
@@ -102,6 +102,10 @@
     {
         "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/layout/activity_splash.xml"
     },
     {
         "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
