@@ -21,13 +21,6 @@ public class Intro {
     public void setDesc(String desc) {
         this.desc = desc;
     }
-
-    public Intro(String title, String desc, Integer imageUrl) {
-        this.title = title;
-        this.desc = desc;
-        this.imageUrl = imageUrl;
-    }
-
     public Integer getImageUrl() {
         return imageUrl;
     }
@@ -35,4 +28,12 @@ public class Intro {
     public void setImageUrl(Integer imageUrl) {
         this.imageUrl = imageUrl;
     }
+
+    public Intro(String title, String desc, Integer imageUrl) {
+        this.title = title;
+        this.desc = desc;
+        this.imageUrl = imageUrl;
+    }
+
+
 }

@@ -24,7 +24,6 @@ public class IntroViewPagerAdapter extends PagerAdapter {
         this.context = context;
         this.introList = introList;
     }
-
     @Override
     public int getCount() {
         return introList.size();

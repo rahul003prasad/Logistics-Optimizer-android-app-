@@ -18,6 +18,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.rahulprasad.logisticsoptimizer.Otp" />
         <activity android:name="com.rahulprasad.logisticsoptimizer.OnBoarding" />
         <activity android:name="com.rahulprasad.logisticsoptimizer.Home" />
         <activity android:name="com.rahulprasad.logisticsoptimizer.Splash" >

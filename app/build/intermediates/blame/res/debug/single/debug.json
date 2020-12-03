@@ -84,6 +84,10 @@
         "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/drawable/three.png"
     },
     {
+        "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/layout_activity_otp.xml.flat",
+        "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/layout/activity_otp.xml"
+    },
+    {
         "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
@@ -114,6 +118,10 @@
     {
         "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/drawable_custominput1.xml.flat",
+        "source": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/src/main/res/drawable/custominput1.xml"
     },
     {
         "merged": "/Users/rahulprasad/Desktop/Work/Personal/Logistics Optimizer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
